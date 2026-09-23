@@ -1,0 +1,6 @@
+{
+  "name": "Ema Beauty Spot | Beauty Salon in JLT Dubai",
+  "description": "Ema Beauty Spot is a beauty salon in JLT, Dubai offering hair, nails, lashes, brows, facials, head spa, massage, waxing and makeup services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
